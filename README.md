@@ -1,2 +1,2 @@
-# C-Console-Calculator
+# CPP-Console-Calculator
 Console based C++ calculator.
